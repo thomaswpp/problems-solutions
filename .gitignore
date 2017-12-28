@@ -33,4 +33,7 @@
 
 # Dir
 coding
-Try
+try
+
+# File Text
+*.txt
